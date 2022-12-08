@@ -20,6 +20,7 @@ public class Animal {
     }
 
     public final double divide(int a, int b){
+
         return a/b;
     }
 }
